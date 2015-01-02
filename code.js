@@ -56,7 +56,7 @@ $('#cy').cytoscape({
  
   layout: {
     name: 'cose',
-    padding: '10'
+    padding: 10
   },
  
   // on graph initial layout done (could be async depending on layout...)
